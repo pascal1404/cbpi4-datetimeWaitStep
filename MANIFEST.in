@@ -1,2 +1,2 @@
-include cbpi4-alarmClock/config.yaml
-recursive-include cbpi4-alarmClock/static *
+include cbpi4-datetimeWaitStep/config.yaml
+recursive-include cbpi4-datetimeWaitStep/static *
